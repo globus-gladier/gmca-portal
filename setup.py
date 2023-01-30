@@ -16,7 +16,7 @@ with open('requirements.txt') as reqs:
 
 
 setup(
-    name='gladier_gmca_portal',
+    name='gmca_portal',
     description='A portal for GMCA at the Advanced Photon Source',
     url='https://github.com/globus-gladier/gladier-xpcs',
     maintainer='The Gladier Team',
